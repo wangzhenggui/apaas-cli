@@ -1,0 +1,11 @@
+{
+  "name": "raycloud-apaas-fe",
+  "version": "1.0.0",
+  "description": "光云科技Apaas前端研发库",
+  "main": "index.js",
+  "author": "jianjia.wzg",
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
